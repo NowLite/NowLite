@@ -1,7 +1,5 @@
-- 👋 Salut, je suis NowLite; un developpeur français qui touche à tous les languages
+- 👋 Salut, je suis NowLite; un developpeur français qui touche à tous les languages, mais surtout le discord.js
 - 👀 Je suis intéréssé par tous les languages de programtion
-- 🌱 En ce moment, j'apprend le C# et j'ai prévu d'apprendre le go et le ruby
-- 💞️ En ce moement, je travailler avec Les 6 royaumes, MDAV, _ _ _  _ _ _ _ _
+- 🌱 En ce moment, j'apprend le java et le C#
+- 💞️ En ce moment, je n'ai aucun projet en cours... 
 - 📫 Vous pouvez me joindre sur discord (@NowLite.js#0814)
-
-
